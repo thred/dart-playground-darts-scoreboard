@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Sample app</title>
+    <link rel="stylesheet" href="DartsScoreboard.css">
+    <link rel="import" href="ui/TitlePage.html">
+    <link rel="import" href="ui/GameSelectionPage.html">
+  </head>
+  <body>
+    <div class="header">
+      <h1>Darts Scoreboard</h1>
+    </div>
+    
+    <template instantiate="if STATE.page == TITLE_PAGE">
+      <div is="title-page" id="title-page" state="{{STATE}}"></div>
+    </template>
+
+    <template instantiate="if STATE.page == GAME_SELECTION_PAGE">
+      <div is="game-selection-page" id="game-selection-page" state="{{STATE}}"></div>
+    </template>
+
+    <script type="application/dart" src="DartsScoreboard.dart"></script>
+    <script src="packages/browser/dart.js"></script>
+  </body>
+</html>

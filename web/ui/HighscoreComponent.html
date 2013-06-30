@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+  <body>
+    <element name="highscore-component" constructor="HighscoreComponent" extends="div">
+      <template>
+        <div class="box">
+          <div class="box-header">
+            <h2>Highscore</h2>
+          </div>
+          <div class="box-content">
+            <table>
+              <thead>
+                <tr>
+                  <th on-click="sortByPlayer()"><span class="button">Player</span></th>
+                  <th on-click="sortByScore()"><span class="button">Score</span></th>
+                  <th on-click="sortByPercentWins()"><span class="button"># Wins</span></th>
+                  <th on-click="sortByAverageShot()"><span class="button">&oslash; Shot</span></th>
+                  <th on-click="sortByMaxPerRound()"><span class="button">max.</span></th>
+                </tr>
+              </thead>
+              <tbody iterate="player in players">
+                <tr>
+                  <th><span>{{player.name}}</span></th>
+                  <td class="{{getScoreClass(player)}}"><span>{{player.score.toStringAsFixed(1)}}</span></td>
+                  <td class="{{getPercentWinsClass(player)}}"><span>{{player.numberOfWins}} of {{player.numberOfGames}} ({{player.percentWins.toStringAsFixed(1)}} %)</span></td>
+                  <td class="{{getAverageShotClass(player)}}"><span>{{player.averageShot.toStringAsFixed(1)}}</span></td>
+                  <td class="{{getMaxPerRoundClass(player)}}"><span>{{player.maxPerRound}}</span></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </template>
+      <script type="application/dart" src="HighscoreComponent.dart"></script>
+    </element>   
+  </body>
+</html>

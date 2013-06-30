@@ -1,0 +1,2092 @@
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 832 ms
+build.dart finished [1173 ms]
+
+---
+build.dart --machine --changed=web\asset\maximum.png
+Total time                                                   -- 802 ms
+build.dart finished [1154 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 800 ms
+build.dart finished [1133 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 813 ms
+build.dart finished [1144 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 804 ms
+build.dart finished [1132 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 812 ms
+build.dart finished [1160 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 801 ms
+build.dart finished [1164 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 831 ms
+build.dart finished [1202 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 834 ms
+build.dart finished [1177 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 823 ms
+build.dart finished [1174 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 828 ms
+build.dart finished [1201 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 825 ms
+build.dart finished [1209 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 850 ms
+build.dart finished [1204 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 832 ms
+build.dart finished [1170 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 826 ms
+build.dart finished [1172 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 831 ms
+build.dart finished [1192 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 822 ms
+build.dart finished [1150 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 816 ms
+build.dart finished [1170 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesX01DefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 778 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1612 ms
+build.dart finished [2065 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesX01DefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 764 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1590 ms
+build.dart finished [2014 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesX01DefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 762 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1563 ms
+build.dart finished [1995 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 826 ms
+build.dart finished [1190 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 792 ms
+build.dart finished [1122 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesX01DefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 768 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1571 ms
+build.dart finished [2015 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesX01DefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 802 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1659 ms
+build.dart finished [2075 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesX01DefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 791 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1630 ms
+build.dart finished [2088 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 814 ms
+build.dart finished [1156 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 795 ms
+build.dart finished [1138 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 796 ms
+build.dart finished [1130 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 799 ms
+build.dart finished [1137 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 792 ms
+build.dart finished [1139 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 800 ms
+build.dart finished [1139 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 783 ms
+build.dart finished [1128 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 794 ms
+build.dart finished [1155 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesX01DefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 929 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1768 ms
+build.dart finished [2466 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesX01DefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 770 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1577 ms
+build.dart finished [2018 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesX01DefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 862 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1699 ms
+build.dart finished [2173 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesX01DefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\RulesX01DefinitionComponent.html","message":"Unexpected end tag (note). Ignored.","line":16,"charStart":522,"charEnd":529}}]
+[{"method":"warning","params":{"file":"web\\ui\\RulesX01DefinitionComponent.html","message":"Unexpected end tag (label). Ignored.","line":16,"charStart":529,"charEnd":537}}]
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 772 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1579 ms
+build.dart finished [2002 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesX01DefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 1383 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 2215 ms
+build.dart finished [2648 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesX01DefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 770 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1606 ms
+build.dart finished [2044 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesX01DefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 797 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1605 ms
+build.dart finished [2064 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesX01DefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 777 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1599 ms
+build.dart finished [2020 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesX01DefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 1292 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 2182 ms
+build.dart finished [2684 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesX01DefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 1272 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 2268 ms
+build.dart finished [2719 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesX01DefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 912 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1904 ms
+build.dart finished [2321 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesCricketDefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 799 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1667 ms
+build.dart finished [2123 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesCricketDefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 800 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1673 ms
+build.dart finished [2102 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesCricketDefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 842 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1640 ms
+build.dart finished [2083 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesCricketDefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 824 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1632 ms
+build.dart finished [2073 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesCricketDefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 791 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1603 ms
+build.dart finished [2008 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesCricketDefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 1008 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1891 ms
+build.dart finished [2517 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesCricketDefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 786 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1595 ms
+build.dart finished [2053 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesCricketDefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 787 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1617 ms
+build.dart finished [2056 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesCricketDefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 801 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1615 ms
+build.dart finished [2041 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesCricketDefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 1195 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 2083 ms
+build.dart finished [2501 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesCricketDefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 803 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1608 ms
+build.dart finished [2072 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesCricketDefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 1234 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 2099 ms
+build.dart finished [2548 ms]
+
+---
+build.dart --machine --changed=web\ui\RulesCricketDefinitionComponent.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 798 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1656 ms
+build.dart finished [2105 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 814 ms
+build.dart finished [1243 ms]
+
+---
+build.dart --machine --changed=web\ui\TitlePage.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 820 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1657 ms
+build.dart finished [2245 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 855 ms
+build.dart finished [1238 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 852 ms
+build.dart finished [1228 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 834 ms
+build.dart finished [1234 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 916 ms
+build.dart finished [1383 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 831 ms
+build.dart finished [1218 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 867 ms
+build.dart finished [1196 ms]
+
+---
+build.dart --machine --changed=web\ui\TitlePage.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 811 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1719 ms
+build.dart finished [2261 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 1348 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 2211 ms
+build.dart finished [2717 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 921 ms
+build.dart finished [1266 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 828 ms
+build.dart finished [1234 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 826 ms
+build.dart finished [1265 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 819 ms
+build.dart finished [1192 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 835 ms
+build.dart finished [1252 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 866 ms
+build.dart finished [1264 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 831 ms
+build.dart finished [1214 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 829 ms
+build.dart finished [1194 ms]
+
+---
+build.dart --machine --changed=web\ui\TitlePage.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 814 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1634 ms
+build.dart finished [2064 ms]
+
+---
+build.dart --machine --changed=web\ui\Button.dart
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 788 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1603 ms
+build.dart finished [2103 ms]
+
+---
+build.dart --machine --changed=web\ui\Button.dart
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 814 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1640 ms
+build.dart finished [2186 ms]
+
+---
+build.dart --machine --changed=web\ui\Button.dart
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 803 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1620 ms
+build.dart finished [2128 ms]
+
+---
+build.dart --machine --changed=web\ui\Button.dart
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 871 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1681 ms
+build.dart finished [2138 ms]
+
+---
+build.dart --machine --changed=web\ui\Button.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 803 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1671 ms
+build.dart finished [2306 ms]
+
+---
+build.dart --machine --changed=web\ui\TitlePage.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 1177 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 2084 ms
+build.dart finished [2518 ms]
+
+---
+build.dart --machine --changed=web\ui\TitlePage.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 797 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1670 ms
+build.dart finished [2198 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 978 ms
+build.dart finished [1512 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 859 ms
+build.dart finished [1218 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 823 ms
+build.dart finished [1220 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 795 ms
+build.dart finished [1193 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 800 ms
+build.dart finished [1134 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 795 ms
+build.dart finished [1162 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 794 ms
+build.dart finished [1134 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 844 ms
+build.dart finished [1187 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 822 ms
+build.dart finished [1174 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 829 ms
+build.dart finished [1212 ms]
+
+---
+build.dart --machine --changed=web\ui\TitlePage.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 836 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1673 ms
+build.dart finished [2170 ms]
+
+---
+build.dart --machine --changed=web\ui\TitlePage.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 996 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1830 ms
+build.dart finished [2416 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 802 ms
+build.dart finished [1268 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 786 ms
+build.dart finished [1148 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 798 ms
+build.dart finished [1223 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 822 ms
+build.dart finished [1178 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 814 ms
+build.dart finished [1167 ms]
+
+---
+build.dart --machine --changed=web\ui\TitlePage.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 797 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1624 ms
+build.dart finished [2123 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 799 ms
+build.dart finished [1371 ms]
+
+---
+build.dart --machine --changed=web\ui\GameSelectionPage.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 789 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1602 ms
+build.dart finished [2069 ms]
+
+---
+build.dart --machine --changed=web\ui\GameSelectionPage.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 807 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1668 ms
+build.dart finished [2177 ms]
+
+---
+build.dart --machine --changed=web\ui\GameSelectionPage.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 801 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1643 ms
+build.dart finished [2041 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 834 ms
+build.dart finished [1169 ms]
+
+---
+build.dart --machine --changed=web\ui\GameSelectionPage.dart
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 808 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1609 ms
+build.dart finished [2116 ms]
+
+---
+build.dart --machine --changed=web\ui\GameSelectionPage.dart
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 812 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1638 ms
+build.dart finished [2092 ms]
+
+---
+build.dart --machine --changed=web\ui\GameSelectionPage.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 1106 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1935 ms
+build.dart finished [2628 ms]
+
+---
+build.dart --machine --changed=web\ui\GameSelectionPage.html
+[{"method":"warning","params":{"file":"web\\ui\\HighscoreComponent.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":22,"charStart":863,"charEnd":898}}]
+Total time spent on web/DartsScoreboard.html                 -- 809 ms
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\Player.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\Button.dart"}}]
+[{"method":"mapping","params":{"from":"web/DartsScoreboard.html","to":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesCricket.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model\\State.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\RulesX01.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\controller\\Rules.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.css"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\TitlePage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\GameSelectionPage.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesCricketDefinitionComponent.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\HighscoreComponent.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\DartsScoreboard.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\ui\\RulesX01DefinitionComponent.dart"}}]
+Total time                                                   -- 1644 ms
+build.dart finished [2158 ms]
+
+---
+build.dart --machine --removed=web\asset\medal.png
+Total time                                                   -- 810 ms
+build.dart finished [1252 ms]
+

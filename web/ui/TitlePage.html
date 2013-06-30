@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link rel="import" href="HighscoreComponent.html" />
+    <link rel="import" href="Button.html" />
+  </head>
+  <body>
+    <element name="title-page" constructor="TitlePage" extends="div">
+      <template>
+        <div is="highscore-component" id="highscore-component"></div>
+        
+        <div class="bar">
+          <button on-click="startGame()" additional-class="major-button">Start Game</button>
+        </div>
+      </template>
+      <script type="application/dart" src="TitlePage.dart"></script>
+    </element>   
+  </body>
+</html>

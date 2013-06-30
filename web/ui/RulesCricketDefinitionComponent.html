@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link rel="import" href="Button.html" />
+  </head>
+  <body>
+    <element name="rules-cricket-definition-component" constructor="RulesCricketDefinitionComponent" extends="div">
+      <template>
+        <div class="box">
+          <div class="box-header">
+            <h2>Rules for Cricket</h2>
+          </div>
+          <div class="box-content">
+            <table class="form">
+              <tbody>
+                <tr>
+                  <th>
+                    Targets
+                  </th>
+                  <td colspan="2">
+                    <table>
+                      <tbody>
+                        <tr>
+                          <td>
+                            <input type="checkbox" id="targets-bull-input" bind-checked="rules.targets[0]" disabled="{{rules.crazy}}" />
+                            <label for="targets-bull-input">Bull</label>
+                          </td>
+                        </tr> 
+                        <tr>
+                          <td>
+                            <input type="checkbox" id="targets-20-input" bind-checked="rules.targets[20]" disabled="{{rules.crazy}}" />
+                            <label for="targets-20-input">20</label>
+                          </td>
+                          <td>
+                            <input type="checkbox" id="targets-15-input" bind-checked="rules.targets[15]" disabled="{{rules.crazy}}" />
+                            <label for="targets-15-input">15</label>
+                          </td>
+                          <td>
+                            <input type="checkbox" id="targets-10-input" bind-checked="rules.targets[10]" disabled="{{rules.crazy}}" />
+                            <label for="targets-10-input">10</label>
+                          </td>
+                          <td>
+                            <input type="checkbox" id="targets-5-input" bind-checked="rules.targets[5]" disabled="{{rules.crazy}}" />
+                            <label for="targets-5-input">5</label>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <input type="checkbox" id="targets-19-input" bind-checked="rules.targets[19]" disabled="{{rules.crazy}}" />
+                            <label for="targets-19-input">19</label>
+                          </td>
+                          <td>
+                            <input type="checkbox" id="targets-14-input" bind-checked="rules.targets[14]" disabled="{{rules.crazy}}" />
+                            <label for="targets-14-input">14</label>
+                          </td>
+                          <td>
+                            <input type="checkbox" id="targets-9-input" bind-checked="rules.targets[9]" disabled="{{rules.crazy}}" />
+                            <label for="targets-9-input">9</label>
+                          </td>
+                          <td>
+                            <input type="checkbox" id="targets-4-input" bind-checked="rules.targets[4]" disabled="{{rules.crazy}}" />
+                            <label for="targets-4-input">4</label>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <input type="checkbox" id="targets-18-input" bind-checked="rules.targets[18]" disabled="{{rules.crazy}}" />
+                            <label for="targets-18-input">18</label>
+                          </td>
+                          <td>
+                            <input type="checkbox" id="targets-13-input" bind-checked="rules.targets[13]" disabled="{{rules.crazy}}" />
+                            <label for="targets-13-input">13</label>
+                          </td>
+                          <td>
+                            <input type="checkbox" id="targets-8-input" bind-checked="rules.targets[8]" disabled="{{rules.crazy}}" />
+                            <label for="targets-8-input">8</label>
+                          </td>
+                          <td>
+                            <input type="checkbox" id="targets-3-input" bind-checked="rules.targets[3]" disabled="{{rules.crazy}}" />
+                            <label for="targets-3-input">3</label>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <input type="checkbox" id="targets-17-input" bind-checked="rules.targets[17]" disabled="{{rules.crazy}}" />
+                            <label for="targets-17-input">17</label>
+                          </td>
+                          <td>
+                            <input type="checkbox" id="targets-12-input" bind-checked="rules.targets[12]" disabled="{{rules.crazy}}" />
+                            <label for="targets-12-input">12</label>
+                          </td>
+                          <td>
+                            <input type="checkbox" id="targets-7-input" bind-checked="rules.targets[7]" disabled="{{rules.crazy}}" />
+                            <label for="targets-7-input">7</label>
+                          </td>
+                          <td>
+                            <input type="checkbox" id="targets-2-input" bind-checked="rules.targets[2]" disabled="{{rules.crazy}}" />
+                            <label for="targets-2-input">2</label>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <input type="checkbox" id="targets-16-input" bind-checked="rules.targets[16]" disabled="{{rules.crazy}}" />
+                            <label for="targets-16-input">16</label>
+                          </td>
+                          <td>
+                            <input type="checkbox" id="targets-11-input" bind-checked="rules.targets[11]" disabled="{{rules.crazy}}" />
+                            <label for="targets-11-input">11</label>
+                          </td>
+                          <td>
+                            <input type="checkbox" id="targets-6-input" bind-checked="rules.targets[6]" disabled="{{rules.crazy}}" />
+                            <label for="targets-6-input">6</label>
+                          </td>
+                          <td>
+                            <input type="checkbox" id="targets-1-input" bind-checked="rules.targets[1]" disabled="{{rules.crazy}}" />
+                            <label for="targets-1-input">1</label>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                  <td>
+                    <button on-click="clearAll()">Clear All</button>
+                    <br />
+                    <button on-click="addRandom()">Add Random</button>
+                  </td>
+                </tr>
+                <tr>
+                  <th rowspan="2">
+                    Modifications
+                  </th>
+                  <td>
+                    <input type="checkbox" id="cut-throat-input" bind-checked="rules.cutThroat" />
+                    <label for="cut-throat-input">Cut Throat</label>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <input type="checkbox" id="crazy-input" bind-checked="rules.crazy" />
+                    <label for="crazy-input">Crazy</label>
+                  </td>
+                </tr>
+                <tr>
+                  <th>
+                    <label for="max-rounds-input">Maximum Rounds</label>
+                  </th>
+                  <td>
+                    <input type="number" id="max-rounds-input" min="1" max="99" step="1" bind-value="rules.maxRoundsString" />
+                  </td>
+                  <td>
+                    <input type="checkbox" id="all-players-finish-input" bind-checked="rules.allPlayersFinish" />
+                    <label for="all-players-finish-input">All players have to finish</label>
+                  </td>
+                  <td>
+                    Default is 21 rounds, game ends when first player wins 
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </template>
+      <script type="application/dart" src="RulesCricketDefinitionComponent.dart"></script>
+    </element>   
+  </body>
+</html>
