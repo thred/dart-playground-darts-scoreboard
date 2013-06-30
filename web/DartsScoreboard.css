@@ -69,7 +69,7 @@ table.form td {
 div.header {
   background-color: #504416;
   color: #e9ddaf;
-  padding: 16px 32px;
+  padding: 16px 32px 16px 96px;
   text-shadow: 0px -1px 0px #000000;
   font-size: 120%;
 }
@@ -119,8 +119,18 @@ span.major-button:active {
   margin: 4px 8px 2px 8px;  
 }
 
+div#board-logo {
+  background: url('asset/board.png') no-repeat center center;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  top: -48px;
+  left: -48px;
+}
+  
 div.bar {
   margin: 16px 16px;
+  padding: 4px 0px;
   text-align: right;
 }
 
