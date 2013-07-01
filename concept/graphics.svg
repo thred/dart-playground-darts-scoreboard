@@ -581,9 +581,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="-47.406047"
-     inkscape:cy="793.92415"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="163.26826"
+     inkscape:cy="823.55395"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1114,7 +1114,7 @@
     </g>
     <g
        id="g4281"
-       transform="translate(-147.73633,-0.0073593)">
+       transform="matrix(-1,0,0,1,136,4.0000026)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 70,170.36218 8,-8"
@@ -1336,7 +1336,7 @@
        transform="matrix(0.66666667,0,0,0.66666667,124,68.120728)"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="C:\Users\thred\dart\DartsScoreboard\web\asset\medal.png"
+       inkscape:export-filename="C:\Users\thred\dart\DartsScoreboard\web\asset\maximum.png"
        id="g4650">
       <rect
          style="color:#000000;fill:#f2f2f2;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -1400,5 +1400,68 @@
            sodipodi:type="arc" />
       </g>
     </g>
+    <rect
+       style="color:#000000;fill:#504416;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4666"
+       width="128"
+       height="80"
+       x="112"
+       y="60.362183" />
+    <rect
+       y="332.36218"
+       x="72"
+       height="16"
+       width="16"
+       id="rect4668"
+       style="color:#000000;fill:#445016;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#677821;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4670"
+       width="16"
+       height="16"
+       x="88"
+       y="332.36218" />
+    <rect
+       y="332.36218"
+       x="104"
+       height="16"
+       width="16"
+       id="rect4672"
+       style="color:#000000;fill:#89a02c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#abc837;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4674"
+       width="16"
+       height="16"
+       x="120"
+       y="332.36218" />
+    <rect
+       y="332.36218"
+       x="136"
+       height="16"
+       width="16"
+       id="rect4676"
+       style="color:#000000;fill:#bcd35f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#cdde87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4678"
+       width="16"
+       height="16"
+       x="152"
+       y="332.36218" />
+    <rect
+       y="332.36218"
+       x="168"
+       height="16"
+       width="16"
+       id="rect4680"
+       style="color:#000000;fill:#dde9af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#eef4d7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4682"
+       width="16"
+       height="16"
+       x="184"
+       y="332.36218" />
   </g>
 </svg>

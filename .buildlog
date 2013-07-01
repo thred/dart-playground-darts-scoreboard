@@ -2330,3 +2330,38 @@ build.dart --machine --changed=concept\board.svg
 Total time                                                   -- 791 ms
 build.dart finished [1131 ms]
 
+---
+build.dart --machine --changed=web\asset\board.png
+Total time                                                   -- 816 ms
+build.dart finished [2054 ms]
+
+---
+build.dart --machine --changed=web\asset\board.png
+Total time                                                   -- 900 ms
+build.dart finished [1284 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 994 ms
+build.dart finished [1350 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 861 ms
+build.dart finished [1205 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 824 ms
+build.dart finished [1168 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 799 ms
+build.dart finished [1121 ms]
+
+---
+build.dart --machine --changed=web\DartsScoreboard.css
+Total time                                                   -- 803 ms
+build.dart finished [1146 ms]
+
