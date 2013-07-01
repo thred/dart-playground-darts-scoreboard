@@ -33,32 +33,41 @@ class RulesX01 extends Rules {
   RulesX01() {
   }
   
-  String get id {
-    return RULES_X01_ID;
-  }
+  String get id => RULES_X01_ID;
   
-  String get name {
-    return "X01";
-  }
+  String get name => (target != null) ? target.toString() : "X01";
+
+  int get minimumPlayers => 2;
   
+  int get maximumPlayers => 8;
+
+  bool get teamable => true;
+
   @observable
-  String get targetString {
-    return target.toString();
-  }
+  String get targetString => (target != null) ? target.toString() : "";
   
   @observable
   void set targetString(targetString) {
-    target = int.parse(targetString);
+    target = (targetString != "") ? int.parse(targetString) : 1;
   }
   
   @observable
-  String get maxRoundsString {
-    return maxRounds.toString();
-  }
+  String get maxRoundsString => maxRounds.toString();
   
   @observable
   void set maxRoundsString(maxRoundsString) {
-    maxRounds = int.parse(maxRoundsString);
+    maxRounds = (targetString != "") ? int.parse(maxRoundsString) : 1;
+  }
+  
+  void reset() {
+    target = 501;
+    doubleIn = true;
+    doubleOut = true;
+    trippleIn = false;
+    trippleOut = false;
+    pingPong = false;
+    allPlayersFinish = false;
+    maxRounds = 21;
   }
   
 }

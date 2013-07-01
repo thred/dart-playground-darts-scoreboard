@@ -19,7 +19,7 @@
                   <th on-click="sortByMaxPerRound()"><span class="button">max.</span></th>
                 </tr>
               </thead>
-              <tbody iterate="player in players">
+              <tbody iterate="player in state.registeredPlayers">
                 <tr>
                   <th><span>{{player.name}}</span></th>
                   <td class="{{getScoreClass(player)}}"><span>{{player.score.toStringAsFixed(1)}}</span></td>

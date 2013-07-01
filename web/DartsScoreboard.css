@@ -66,6 +66,17 @@ table.form td {
   text-align: left;
 }
 
+table.layout {
+  width: 100%;
+}
+
+table.layout th, table.layout td {
+  border: none;
+  padding: 0px;
+  margin: 0px;
+  vertical-align: top;
+}
+
 div.header {
   background-color: #504416;
   color: #e9ddaf;
@@ -87,17 +98,16 @@ span.button {
   box-shadow: 0px 2px 4px #e0e0e0;
   cursor: pointer;
   padding: 8px 32px;
-  margin: 2px 0px 4px 0px;
+  margin: 2px 4px;
   color: black;
 }
 
 span.button:hover {
-  background-color: #e9ddaf;
+  background-color: #eef4d7;
 }
 
 span.button:active {
-  box-shadow: 0px 0px 4px #e0e0e0;
-  margin: 4px 0px 2px 0px;
+  box-shadow: inset 0px 2px 4px #e0e0e0;
 }
 
 span.major-button {
@@ -107,7 +117,6 @@ span.major-button {
   border: 1px solid white;
   box-shadow: 0px 4px 8px #a0a0a0;
   padding: 16px 32px;
-  margin: 2px 8px 4px 8px;  
 }
 
 span.major-button:hover {
@@ -115,9 +124,38 @@ span.major-button:hover {
 }
 
 span.major-button:active {
-  box-shadow: 0px 0px 8px #a0a0a0;
-  margin: 4px 8px 2px 8px;  
+  box-shadow: inset 0px 4px 8px #a0a0a0;
 }
+
+span.button-disabled, span.button-disabled:hover, span.button-disabled:active {
+  border: 1px solid #f4eed7;
+  color: #e9ddaf;
+  background-color: white;
+  box-shadow: none;
+  text-shadow: none;
+  cursor: default;
+}
+
+input[type=text], input[type=number] {
+  font-weight: bold;
+  font-size: 120%;
+  border: 1px solid #c8ab37;
+  border-radius: 16px;
+  box-shadow: inset 0px 2px 4px #e0e0e0;
+  padding: 6px 12px;
+  margin: 2px 4px;
+}
+
+input[type=number] {
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+input[type=text]:focus, input[type=number]:focus {
+  outline: 0;
+  background-color: #eef4d7;
+}
+
 
 div#board-logo {
   background: url('asset/board.png') no-repeat center center;
@@ -129,6 +167,7 @@ div#board-logo {
 }
   
 div.bar {
+  clear: both;
   margin: 16px 16px;
   padding: 4px 0px;
   text-align: right;
@@ -149,6 +188,11 @@ div.box-header {
 
 div.box-content {
   padding: 16px 32px;
+}
+
+div.box-footer {
+  padding: 16px 32px;
+  border-top: 1px dotted #e9ddaf;
 }
 
 #sample_container_id {

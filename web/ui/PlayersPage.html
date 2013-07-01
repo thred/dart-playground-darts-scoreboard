@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link rel="import" href="Button.html" />
+  </head>
+  <body>
+    <element name="players-page" constructor="PlayersPage" extends="div">
+      <template>
+        <div class="box" style="float: left;">
+          <div class="box-header">
+            <h2>Available Players</h2>
+          </div>
+          <div class="box-content">
+            <table class="layout">
+              <tbody iterate="player in state.registeredPlayers">
+                <tr>
+                  <td>
+                    <button on-click="addPlayer(player)" disabled="{{players.contains(player)}}" style="width: 240px;">{{player.name}} ({{player.score.toStringAsFixed(1)}})</button><br/><br/>
+                  </td>
+                </tr>
+              </tbody>
+              <tbody>
+                <tr>
+                  <td>
+                    <input type="text" maxlength="8" pattern="\w{0,8}" placeholder="Players Name" bind-value="playerName" style="width: 160px;"/>
+                    <button on-click="createPlayer()" disabled="{{!playerNameValid}}" style="width: 40px;">Add</button>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="box" style="float: left; min-width: 320px;">
+          <div class="box-header">
+            <h2>Participans</h2>
+          </div>
+          <div class="box-content">
+            <table class="layout">
+              <tbody iterate="player in players">
+                <tr>
+                  <td>
+                    <button on-click="removePlayer(player)" style="width: 160px;">{{player.name}} ({{player.score.toStringAsFixed(1)}})</button><br/><br/>
+                  </td>
+                  <td>
+                    <button on-click="movePlayerUp(player)" disabled="{{isPlayerFirst(player)}}">Up</button>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        
+        <div class="bar">
+          <button on-click="nextPage()" additional-class="major-button" disabled="{{!valid()}}">Continue</button>
+          <button on-click="cancel()" additional-class="major-button">Cancel</button>
+        </div>
+      </template>
+      <script type="application/dart" src="PlayersPage.dart"></script>
+    </element>   
+  </body>
+</html>

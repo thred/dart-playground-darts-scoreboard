@@ -8,7 +8,7 @@
   <body>
     <element name="title-page" constructor="TitlePage" extends="div">
       <template>
-        <div is="highscore-component" id="highscore-component"></div>
+        <div is="highscore-component" id="highscore-component" state="{{state}}"></div>
         
         <div class="bar">
           <button on-click="startGame()" additional-class="major-button">Start Game</button>

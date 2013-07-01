@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="DartsScoreboard.css">
     <link rel="import" href="ui/TitlePage.html">
     <link rel="import" href="ui/GameSelectionPage.html">
+    <link rel="import" href="ui/PlayersPage.html">
   </head>
   <body>
     <div id="board-logo"></div>
@@ -20,6 +21,10 @@
 
     <template instantiate="if STATE.page == GAME_SELECTION_PAGE">
       <div is="game-selection-page" id="game-selection-page" state="{{STATE}}"></div>
+    </template>
+
+    <template instantiate="if STATE.page == PLAYERS_PAGE">
+      <div is="players-page" id="players-page" state="{{STATE}}"></div>
     </template>
 
     <script type="application/dart" src="DartsScoreboard.dart"></script>

@@ -32,13 +32,23 @@
           </div>
         </div>
         
-        <template instantiate="if state.rulesId == RULES_X01_ID">
-          <div is="rules-x01-definition-component" id="rules-x01-definition-component"></div>
-        </template>
-        
-        <template instantiate="if state.rulesId == RULES_CRICKET_ID">
-          <div is="rules-cricket-definition-component" id="rules-cricket-definition-component"></div>     
-        </template>
+        <div class="box">
+          <div class="box-header">
+            <h2>Rules for {{state.rules.name}}</h2>
+          </div>
+          <div class="box-content">
+            <template instantiate="if state.rulesId == RULES_X01_ID">
+              <div is="rules-x01-definition-component" id="rules-x01-definition-component"></div>
+            </template>
+            
+            <template instantiate="if state.rulesId == RULES_CRICKET_ID">
+              <div is="rules-cricket-definition-component" id="rules-cricket-definition-component"></div>     
+            </template>
+          </div>
+          <div class="box-footer">
+            <button on-click="reset()">Reset to Defaults</button>
+          </div>
+        </div>
               
         <div class="bar">
           <button on-click="nextPage()" additional-class="major-button">Continue</button>

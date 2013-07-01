@@ -16,4 +16,12 @@ abstract class Rules {
   @observable
   String get name;
   
+  int get minimumPlayers;
+  
+  int get maximumPlayers;
+  
+  bool get teamable;
+  
+  void reset();
+  
 }

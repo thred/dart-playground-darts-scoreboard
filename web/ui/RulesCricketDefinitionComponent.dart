@@ -14,9 +14,7 @@ class RulesCricketDefinitionComponent extends WebComponent {
   }
   
   void clearAll() {
-    print(rules.targets);
     rules.targets.fillRange(0, 21, false);
-    print(rules.targets);
   }
   
   void addRandom() {

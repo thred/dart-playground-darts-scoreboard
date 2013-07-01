@@ -24,22 +24,30 @@ class RulesCricket extends Rules {
   RulesCricket() {
   }
   
-  String get id {
-    return RULES_CRICKET_ID;
-  }
+  String get id => RULES_CRICKET_ID;
   
-  String get name {
-    return "Cricket";
-  }
+  String get name => "Cricket";
+
+  int get minimumPlayers => 2;
+  
+  int get maximumPlayers => 8;
+
+  bool get teamable => true;
   
   @observable
-  String get maxRoundsString {
-    return maxRounds.toString();
-  }
+  String get maxRoundsString => maxRounds.toString();
   
   @observable
   void set maxRoundsString(maxRoundsString) {
-    maxRounds = int.parse(maxRoundsString);
+    maxRounds = (maxRoundsString != "") ? int.parse(maxRoundsString) : 1;
+  }
+  
+  void reset() {
+    targets = toObservable([true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, true, true, true, true, true]);
+    cutThroat = true;
+    crazy = false;
+    allPlayersFinish = false;
+    maxRounds = 21;
   }
 
 }

@@ -14,10 +14,14 @@ class GameSelectionPage extends WebComponent {
   }
   
   void nextPage() {
-    state.page = TITLE_PAGE;
+    state.page = PLAYERS_PAGE;
   }
   
   void cancel() {
     state.page = TITLE_PAGE;
+  }
+  
+  void reset() {
+    state.rules.reset();
   }
 }
