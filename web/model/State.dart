@@ -9,8 +9,9 @@ import '../controller/RulesX01.dart';
 import '../controller/RulesCricket.dart';
 
 const int TITLE_PAGE = 0;
-const int GAME_SELECTION_PAGE = 1;
-const int PLAYERS_PAGE = 2;
+const int PLAYER_DETAIL_PAGE = 1;
+const int GAME_SELECTION_PAGE = 2;
+const int PLAYERS_PAGE = 3;
 
 class State {
   
@@ -26,7 +27,9 @@ class State {
   @observable
   Player maximumPlayer;
   
-
+  @observable
+  Player detailPlayer;
+  
   State() {
     registeredPlayers = toObservable(new List<Player>());
     

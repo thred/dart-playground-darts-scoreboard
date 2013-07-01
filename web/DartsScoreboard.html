@@ -6,6 +6,7 @@
     <title>Sample app</title>
     <link rel="stylesheet" href="DartsScoreboard.css">
     <link rel="import" href="ui/TitlePage.html">
+    <link rel="import" href="ui/PlayerDetailPage.html">
     <link rel="import" href="ui/GameSelectionPage.html">
     <link rel="import" href="ui/PlayersPage.html">
   </head>
@@ -17,6 +18,10 @@
     
     <template instantiate="if STATE.page == TITLE_PAGE">
       <div is="title-page" id="title-page" state="{{STATE}}"></div>
+    </template>
+
+    <template instantiate="if STATE.page == PLAYER_DETAIL_PAGE">
+      <div is="player-detail-page" id="player-detail-page" state="{{STATE}}"></div>
     </template>
 
     <template instantiate="if STATE.page == GAME_SELECTION_PAGE">

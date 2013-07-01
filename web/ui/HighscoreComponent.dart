@@ -23,6 +23,11 @@ class HighscoreComponent extends WebComponent {
     sortByScore();
   }
   
+  void playerDetail(Player player) {
+    state.detailPlayer = player;
+    state.page = PLAYER_DETAIL_PAGE;
+  }
+  
   String getScoreClass(Player player) {
     return (player.score >= state.maximumPlayer.score) ? "maximum" : "";
   }

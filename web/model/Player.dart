@@ -30,5 +30,14 @@ class Player {
   void comuptePercentWins() {
     percentWins = (numberOfGames > 0) ? (numberOfWins / numberOfGames) * 100 : 0;  
   }
+  
+  void reset() {
+    score = 0;
+    numberOfWins = 0;
+    numberOfGames = 0;
+    percentWins = 0;
+    averageShot = 0;
+    maxPerRound = 0;
+  }
 }
 

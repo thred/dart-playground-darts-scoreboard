@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 
 <html>
+  <head>
+    <link rel="import" href="Button.html">
+  </head>
   <body>
     <element name="highscore-component" constructor="HighscoreComponent" extends="div">
       <template>
@@ -12,16 +15,16 @@
             <table>
               <thead>
                 <tr>
-                  <th on-click="sortByPlayer()"><span class="button">Player</span></th>
-                  <th on-click="sortByScore()"><span class="button">Score</span></th>
-                  <th on-click="sortByPercentWins()"><span class="button"># Wins</span></th>
-                  <th on-click="sortByAverageShot()"><span class="button">&oslash; Shot</span></th>
-                  <th on-click="sortByMaxPerRound()"><span class="button">max.</span></th>
+                  <th><button on-click="sortByPlayer()" style="width: 8em;">Player</button></th>
+                  <th><button on-click="sortByScore()">Score</button></th>
+                  <th><button on-click="sortByPercentWins()"># Wins</button></th>
+                  <th><button on-click="sortByAverageShot()">&oslash; Shot</button></th>
+                  <th><button on-click="sortByMaxPerRound()">max.</button></th>
                 </tr>
               </thead>
               <tbody iterate="player in state.registeredPlayers">
                 <tr>
-                  <th><span>{{player.name}}</span></th>
+                  <th><button on-click="playerDetail(player)" style="width: 8em;">{{player.name}}</button></th>
                   <td class="{{getScoreClass(player)}}"><span>{{player.score.toStringAsFixed(1)}}</span></td>
                   <td class="{{getPercentWinsClass(player)}}"><span>{{player.numberOfWins}} of {{player.numberOfGames}} ({{player.percentWins.toStringAsFixed(1)}} %)</span></td>
                   <td class="{{getAverageShotClass(player)}}"><span>{{player.averageShot.toStringAsFixed(1)}}</span></td>
