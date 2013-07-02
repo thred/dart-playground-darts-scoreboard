@@ -1,25 +1,25 @@
 import 'package:web_ui/web_ui.dart';
 
-import '../model/Player.dart';
+import '../model/Person.dart';
 import '../model/State.dart';
 
-class PlayerDetailPage extends WebComponent {
+class PersonDetailPage extends WebComponent {
   
   @observable
   State state;
   
-  PlayerDetailPage() {
+  PersonDetailPage() {
   }
   
   @observable
-  Player get player => state.detailPlayer;
+  Person get person => state.detailPerson;
   
   void back() {
     state.page = TITLE_PAGE;
   }
   
   void reset() {
-    player.reset();
+    person.reset();
   }
   
   void delete() {

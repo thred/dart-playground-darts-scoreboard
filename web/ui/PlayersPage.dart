@@ -1,6 +1,6 @@
 import 'package:web_ui/web_ui.dart';
 
-import '../model/Player.dart';
+import '../model/Person.dart';
 import '../model/State.dart';
 
 class PlayersPage extends WebComponent {
@@ -9,51 +9,51 @@ class PlayersPage extends WebComponent {
   State state;
   
   @observable
-  String playerName = "";
+  String personName = "";
   
   @observable
-  List<Player> players = toObservable(new List());
+  List<Person> players = toObservable(new List());
   
   PlayersPage() {
   }
   
   @observable
-  bool get playerNameValid {
-    return playerName.length >= 3;  
+  bool get personNameValid {
+    return personName.length >= 3;  
   }
   
-  void createPlayer() {
-    if (!playerNameValid) {
+  void createPerson() {
+    if (!personNameValid) {
       return;
     }
     
-    Player player = new Player(playerName);
+    Person person = new Person(personName);
     
-    state.registeredPlayers.add(player);
-    players.add(player);
-    playerName = "";
+    state.persons.add(person);
+    players.add(person);
+    personName = "";
   }
   
-  void addPlayer(Player player) {
-    players.add(player);
+  void addPerson(Person person) {
+    players.add(person);
   }
   
-  void removePlayer(Player player) {
-    players.remove(player);
+  void removePerson(Person person) {
+    players.remove(person);
   }
   
-  void movePlayerUp(Player player) {
-    int index = players.indexOf(player);
+  void movePersonUp(Person person) {
+    int index = players.indexOf(person);
     
     if (index > 0) {
-      players.remove(player);
-      players.insert(index - 1, player);
+      players.remove(person);
+      players.insert(index - 1, person);
     }
   }
   
   @observable
-  bool isPlayerFirst(Player player) {
-    return players.indexOf(player) <= 0;
+  bool isPersonFirst(Person person) {
+    return players.indexOf(person) <= 0;
   }
   
   @observable

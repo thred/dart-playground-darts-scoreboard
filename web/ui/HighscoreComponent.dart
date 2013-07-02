@@ -3,7 +3,7 @@ import 'dart:math';
 
 import 'package:web_ui/web_ui.dart';
 
-import '../model/Player.dart';
+import '../model/Person.dart';
 import '../model/State.dart';
 
 class HighscoreComponent extends WebComponent {
@@ -23,45 +23,45 @@ class HighscoreComponent extends WebComponent {
     sortByScore();
   }
   
-  void playerDetail(Player player) {
-    state.detailPlayer = player;
-    state.page = PLAYER_DETAIL_PAGE;
+  void personDetail(Person person) {
+    state.detailPerson = person;
+    state.page = PERSON_DETAIL_PAGE;
   }
   
-  String getScoreClass(Player player) {
-    return (player.score >= state.maximumPlayer.score) ? "maximum" : "";
+  String getScoreClass(Person person) {
+    return (person.score >= state.maximumPerson.score) ? "maximum" : "";
   }
   
-  String getPercentWinsClass(Player player) {
-    return (player.percentWins >= state.maximumPlayer.percentWins) ? "maximum" : "";
+  String getPercentWinsClass(Person person) {
+    return (person.percentWins >= state.maximumPerson.percentWins) ? "maximum" : "";
   }
 
-  String getAverageShotClass(Player player) {
-    return (player.averageShot >= state.maximumPlayer.averageShot) ? "maximum" : "";
+  String getAverageShotClass(Person person) {
+    return (person.averageShot >= state.maximumPerson.averageShot) ? "maximum" : "";
   }
 
-  String getMaxPerRoundClass(Player player) {
-    return (player.maxPerRound >= state.maximumPlayer.maxPerRound) ? "maximum" : "";
+  String getMaxPerRoundClass(Person person) {
+    return (person.maxPerRound >= state.maximumPerson.maxPerRound) ? "maximum" : "";
   }
 
-  void sortByPlayer() {
-    state.registeredPlayers.sort((a, b) => a.name.compareTo(b.name));
+  void sortByPerson() {
+    state.persons.sort((a, b) => a.name.compareTo(b.name));
   }
   
   void sortByScore() {
-    state.registeredPlayers.sort((a, b) => b.score.compareTo(a.score));
+    state.persons.sort((a, b) => b.score.compareTo(a.score));
   }
 
   void sortByPercentWins() {
-    state.registeredPlayers.sort((a, b) => b.percentWins.compareTo(a.percentWins));
+    state.persons.sort((a, b) => b.percentWins.compareTo(a.percentWins));
   }
 
   void sortByAverageShot() {
-    state.registeredPlayers.sort((a, b) => b.averageShot.compareTo(a.averageShot));
+    state.persons.sort((a, b) => b.averageShot.compareTo(a.averageShot));
   }
 
   void sortByMaxPerRound() {
-    state.registeredPlayers.sort((a, b) => b.maxPerRound.compareTo(a.maxPerRound));
+    state.persons.sort((a, b) => b.maxPerRound.compareTo(a.maxPerRound));
   }
 
 }

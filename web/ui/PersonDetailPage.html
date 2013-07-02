@@ -5,34 +5,34 @@
     <link rel="import" href="Button.html" />
   </head>
   <body>
-    <element name="player-detail-page" constructor="PlayerDetailPage" extends="div">
+    <element name="person-detail-page" constructor="PersonDetailPage" extends="div">
       <template>
         <div class="box">
           <div class="box-header">
-            <h2>{{player.name}}</h2>
+            <h2>{{person.name}}</h2>
           </div>
           <div class="box-content">
             <table>
               <tbody>
                 <tr>
                   <th>Score</th>
-                  <td>{{player.score.toStringAsFixed(1)}}</td>
+                  <td>{{person.score.toStringAsFixed(1)}}</td>
                 </tr>
                 <tr>
                   <th>Number of Games</th>
-                  <td>{{player.numberOfGames}}</td>
+                  <td>{{person.numberOfGames}}</td>
                 </tr>
                 <tr>
                   <th>Number of Wins</th>
-                  <td>{{player.numberOfWins}}</td>
+                  <td>{{person.numberOfWins}}</td>
                 </tr>
                 <tr>
                   <th>Average Shot</th>
-                  <td>{{player.averageShot.toStringAsFixed(1)}}</td>
+                  <td>{{person.averageShot.toStringAsFixed(1)}}</td>
                 </tr>
                 <tr>
                   <th>Maximum per Round (3 Darts)</th>
-                  <td>{{player.maxPerRound}}</td>
+                  <td>{{person.maxPerRound}}</td>
                 </tr>
               </tbody>
             </table>
@@ -44,7 +44,7 @@
           <button on-click="back()" additional-class="major-button">Back</button>
         </div>
       </template>
-      <script type="application/dart" src="PlayerDetailPage.dart"></script>
+      <script type="application/dart" src="PersonDetailPage.dart"></script>
     </element>   
   </body>
 </html>

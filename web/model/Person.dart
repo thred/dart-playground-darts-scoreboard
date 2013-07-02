@@ -1,6 +1,6 @@
 import 'package:web_ui/web_ui.dart';
 
-class Player {
+class Person {
   
   @observable
   String name;
@@ -23,7 +23,7 @@ class Player {
   @observable
   int maxPerRound = 0;
   
-  Player(String name) {
+  Person(String name) {
     this.name = name;
   }
   

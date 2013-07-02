@@ -9,22 +9,22 @@
       <template>
         <div class="box" style="float: left;">
           <div class="box-header">
-            <h2>Available Players</h2>
+            <h2>Available Persons</h2>
           </div>
           <div class="box-content">
             <table class="layout">
-              <tbody iterate="player in state.registeredPlayers">
+              <tbody iterate="person in state.persons">
                 <tr>
                   <td>
-                    <button on-click="addPlayer(player)" disabled="{{players.contains(player)}}" style="width: 240px;">{{player.name}} ({{player.score.toStringAsFixed(1)}})</button><br/><br/>
+                    <button on-click="addPerson(person)" disabled="{{players.contains(person)}}" style="width: 240px;">{{person.name}} ({{person.score.toStringAsFixed(1)}})</button><br/><br/>
                   </td>
                 </tr>
               </tbody>
               <tbody>
                 <tr>
                   <td>
-                    <input type="text" maxlength="8" pattern="\w{0,8}" placeholder="Players Name" bind-value="playerName" style="width: 160px;"/>
-                    <button on-click="createPlayer()" disabled="{{!playerNameValid}}" style="width: 40px;">Add</button>
+                    <input type="text" maxlength="8" pattern="\w{0,8}" placeholder="Persons Name" bind-value="personName" style="width: 160px;"/>
+                    <button on-click="createPerson()" disabled="{{!personNameValid}}" style="width: 40px;">Add</button>
                   </td>
                 </tr>
               </tbody>
@@ -41,10 +41,10 @@
               <tbody iterate="player in players">
                 <tr>
                   <td>
-                    <button on-click="removePlayer(player)" style="width: 160px;">{{player.name}} ({{player.score.toStringAsFixed(1)}})</button><br/><br/>
+                    <button on-click="removePerson(player)" style="width: 160px;">{{player.name}} ({{player.score.toStringAsFixed(1)}})</button><br/><br/>
                   </td>
                   <td>
-                    <button on-click="movePlayerUp(player)" disabled="{{isPlayerFirst(player)}}">Up</button>
+                    <button on-click="movePersonUp(player)" disabled="{{isPersonFirst(player)}}">Up</button>
                   </td>
                 </tr>
               </tbody>

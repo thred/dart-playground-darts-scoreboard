@@ -2,14 +2,14 @@ import "dart:math";
 
 import 'package:web_ui/web_ui.dart';
 
-import 'Player.dart';
+import 'Person.dart';
 
 import '../controller/Rules.dart';
 import '../controller/RulesX01.dart';
 import '../controller/RulesCricket.dart';
 
 const int TITLE_PAGE = 0;
-const int PLAYER_DETAIL_PAGE = 1;
+const int PERSON_DETAIL_PAGE = 1;
 const int GAME_SELECTION_PAGE = 2;
 const int PLAYERS_PAGE = 3;
 
@@ -22,25 +22,25 @@ class State {
   Rules rules = RULES[RULES_X01_ID];
   
   @observable
-  List<Player> registeredPlayers = null;
+  List<Person> persons = null;
 
   @observable
-  Player maximumPlayer;
+  Person maximumPerson;
   
   @observable
-  Player detailPlayer;
+  Person detailPerson;
   
   State() {
-    registeredPlayers = toObservable(new List<Player>());
+    persons = toObservable(new List<Person>());
     
-    registeredPlayers.add(new Player("ham"));
-    registeredPlayers.add(new Player("xib"));
-    registeredPlayers.add(new Player("xsz"));
+    persons.add(new Person("ham"));
+    persons.add(new Person("xib"));
+    persons.add(new Person("xsz"));
     
-    registeredPlayers[2].score = 350.33333;
-    registeredPlayers[1].percentWins = 50;
-    registeredPlayers[2].averageShot = 23.33333;
-    registeredPlayers[0].maxPerRound = 180;
+    persons[2].score = 350.33333;
+    persons[1].percentWins = 50;
+    persons[2].averageShot = 23.33333;
+    persons[0].maxPerRound = 180;
   }
   
   @observable
@@ -54,13 +54,13 @@ class State {
   }
   
   void computeStats() {
-    maximumPlayer = new Player("maximum");
+    maximumPerson = new Person("maximum");
     
-    for (Player current in registeredPlayers) {
-      maximumPlayer.score = max(current.score, maximumPlayer.score);
-      maximumPlayer.percentWins = max(current.percentWins, maximumPlayer.percentWins);
-      maximumPlayer.averageShot = max(current.averageShot, maximumPlayer.averageShot);
-      maximumPlayer.maxPerRound = max(current.maxPerRound, maximumPlayer.maxPerRound);
+    for (Person current in persons) {
+      maximumPerson.score = max(current.score, maximumPerson.score);
+      maximumPerson.percentWins = max(current.percentWins, maximumPerson.percentWins);
+      maximumPerson.averageShot = max(current.averageShot, maximumPerson.averageShot);
+      maximumPerson.maxPerRound = max(current.maxPerRound, maximumPerson.maxPerRound);
     }
   }
 
