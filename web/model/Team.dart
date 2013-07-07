@@ -1,4 +1,4 @@
-import "Scorable.dart";
+import "scorable.dart";
 
 class Team implements Scorable {
   

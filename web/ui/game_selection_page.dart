@@ -1,9 +1,9 @@
-import 'package:web_ui/web_ui.dart';
+import "package:web_ui/web_ui.dart";
 
-import '../controller/Rules.dart';
-import '../controller/RulesX01.dart';
-import '../controller/RulesCricket.dart';
-import '../model/State.dart';
+import "../model/rules.dart";
+import "../model/x01/x01_rules.dart";
+import "../model/cricket/cricket_rules.dart";
+import "../model/state.dart";
 
 class GameSelectionPage extends WebComponent {
   

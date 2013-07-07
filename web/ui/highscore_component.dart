@@ -1,10 +1,10 @@
-import 'dart:html';
-import 'dart:math';
+import "dart:html";
+import "dart:math";
 
-import 'package:web_ui/web_ui.dart';
+import "package:web_ui/web_ui.dart";
 
-import '../model/Person.dart';
-import '../model/State.dart';
+import "../model/person.dart";
+import "../model/state.dart";
 
 class HighscoreComponent extends WebComponent {
   

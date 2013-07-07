@@ -1,6 +1,6 @@
-import 'package:web_ui/web_ui.dart';
+import "package:web_ui/web_ui.dart";
 
-import '../model/State.dart';
+import "../model/state.dart";
 
 class TitlePage extends WebComponent {
   

@@ -1,6 +1,6 @@
-import 'package:web_ui/web_ui.dart';
+import "package:web_ui/web_ui.dart";
 
-import "Scorable.dart";
+import "scorable.dart";
 
 class Person implements Scorable {
   

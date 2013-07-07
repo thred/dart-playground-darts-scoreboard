@@ -1,6 +1,6 @@
-import "Person.dart";
-import "Scorable.dart";
-import "Team.dart";
+import "person.dart";
+import "scorable.dart";
+import "team.dart";
 
 class Player implements Scorable {
   

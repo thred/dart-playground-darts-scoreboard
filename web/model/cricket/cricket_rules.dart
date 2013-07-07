@@ -1,10 +1,10 @@
-import 'package:web_ui/web_ui.dart';
+import "package:web_ui/web_ui.dart";
 
-import 'Rules.dart';
+import "../rules.dart";
 
 const String RULES_CRICKET_ID = "cricket";
 
-class RulesCricket extends Rules {
+class CricketRules extends Rules {
 
   @observable
   var targets = toObservable([true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, true, true, true, true, true]);
@@ -21,7 +21,7 @@ class RulesCricket extends Rules {
   @observable
   int maxRounds = 21;
 
-  RulesCricket() {
+  CricketRules() {
   }
   
   String get id => RULES_CRICKET_ID;

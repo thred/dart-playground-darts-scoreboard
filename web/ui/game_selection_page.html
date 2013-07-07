@@ -2,9 +2,9 @@
 
 <html>
   <head>
-    <link rel="import" href="RulesX01DefinitionComponent.html">
-    <link rel="import" href="RulesCricketDefinitionComponent.html">
-    <link rel="import" href="Button.html">
+    <link rel="import" href="x01/x01_rules_definition_component.html">
+    <link rel="import" href="cricket/cricket_rules_definition_component.html">
+    <link rel="import" href="button.html">
   </head>
   <body>
     <element name="game-selection-page" constructor="GameSelectionPage" extends="div">
@@ -38,11 +38,11 @@
           </div>
           <div class="box-content">
             <template instantiate="if state.rulesId == RULES_X01_ID">
-              <div is="rules-x01-definition-component" id="rules-x01-definition-component"></div>
+              <div is="x01-rules-definition-component" id="x01-rules-definition-component"></div>
             </template>
             
             <template instantiate="if state.rulesId == RULES_CRICKET_ID">
-              <div is="rules-cricket-definition-component" id="rules-cricket-definition-component"></div>     
+              <div is="cricket-rules-definition-component" id="cricket-rules-definition-component"></div>     
             </template>
           </div>
           <div class="box-footer">
@@ -55,7 +55,7 @@
           <button on-click="cancel()" additional-class="major-button">Cancel</button>
         </div>
       </template>
-      <script type="application/dart" src="GameSelectionPage.dart"></script>
+      <script type="application/dart" src="game_selection_page.dart"></script>
     </element>   
   </body>
 </html>

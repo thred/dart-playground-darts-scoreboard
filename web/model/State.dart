@@ -1,12 +1,12 @@
 import "dart:math";
 
-import 'package:web_ui/web_ui.dart';
+import "package:web_ui/web_ui.dart";
 
-import 'Person.dart';
+import "person.dart";
 
-import '../controller/Rules.dart';
-import '../controller/RulesX01.dart';
-import '../controller/RulesCricket.dart';
+import "rules.dart";
+import "x01/x01_rules.dart";
+import "cricket/cricket_rules.dart";
 
 const int TITLE_PAGE = 0;
 const int PERSON_DETAIL_PAGE = 1;

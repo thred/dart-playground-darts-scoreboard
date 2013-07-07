@@ -1,9 +1,10 @@
-import "Player.dart";
-import "Team.dart";
+import "player.dart";
+import "rules.dart";
+import "team.dart";
 
-abstract class Game<RULES_TYPE extends Rules> {
+abstract class Game {
   
-  final RULES_TYPE rules;
+  final Rules rules;
   final List<Player> players;
   final List<Team> teams;
   

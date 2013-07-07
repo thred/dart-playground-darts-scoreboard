@@ -1,5 +1,5 @@
-import "Game.dart";
-import "ScoreRow.dart";
+import "game.dart";
+import "score_row.dart";
 
 /**
  * Represents a score that was assigned to a Scorable (like a Person, Player or Team)

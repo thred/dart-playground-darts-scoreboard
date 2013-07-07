@@ -1,7 +1,7 @@
-import "Game.dart";
-import "Scorable.dart";
-import "Score.dart";
-import "Scoreboard.dart";
+import "game.dart";
+import "scorable.dart";
+import "score.dart";
+import "scoreboard.dart";
 
 /**
  * Usually a Scoreboard is based on rounds. Every round, each player gets a score.

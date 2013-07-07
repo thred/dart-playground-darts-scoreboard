@@ -1,10 +1,10 @@
-import 'package:web_ui/web_ui.dart';
+import "package:web_ui/web_ui.dart";
 
-import 'Rules.dart';
+import "../rules.dart";
 
 const String RULES_X01_ID = "x01";
 
-class RulesX01 extends Rules {
+class X01Rules extends Rules {
   
   @observable
   int target = 501;
@@ -30,7 +30,7 @@ class RulesX01 extends Rules {
   @observable
   int maxRounds = 21;
   
-  RulesX01() {
+  X01Rules() {
   }
   
   String get id => RULES_X01_ID;
