@@ -1,0 +1,24 @@
+table.score {
+  border-spacing: 1px;
+}
+
+table.score-big {
+  font-size: 200%;
+  line-height: 150%;
+}
+
+table.score th, table.score td {
+  color: inherit;
+  width: 2em;
+}
+
+table.score th {
+  font-size: 300%;
+  background-color: #e9ddaf;
+  text-shadow: 0px -1px 1px #d3bc5f;
+}
+
+table.score td {
+  background-color: #f4eed7;
+}
+

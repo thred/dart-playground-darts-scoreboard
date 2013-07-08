@@ -63,7 +63,7 @@ class PlayersPage extends WebComponent {
   
   void nextPage() {
     if (valid()) {
-      state.page = TITLE_PAGE;
+      state.page = X01_GAME_PAGE;
     }
   }
   

@@ -3,7 +3,6 @@ import "dart:math";
 import "package:web_ui/web_ui.dart";
 
 import "person.dart";
-
 import "rules.dart";
 import "x01/x01_rules.dart";
 import "cricket/cricket_rules.dart";
@@ -12,6 +11,7 @@ const int TITLE_PAGE = 0;
 const int PERSON_DETAIL_PAGE = 1;
 const int GAME_SELECTION_PAGE = 2;
 const int PLAYERS_PAGE = 3;
+const int X01_GAME_PAGE = 4;
 
 class State {
   

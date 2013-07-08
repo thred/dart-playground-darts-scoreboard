@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link rel="import" href="../throw_component.html">
+    <link rel="import" href="x01_throw_sum_component.html">
+  </head>
+  <body>
+    <element name="x01-game-page" constructor="X01GamePage" extends="div">
+      <template>
+        <div is="throw-component" id="throw-component"></div>
+        <div is="x01-throw-sum-component" id="x01-throw-sum-component"></div>
+      </template>
+      <script type="application/dart" src="x01_game_page.dart"></script>
+    </element>   
+  </body>
+</html>

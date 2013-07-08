@@ -1,10 +1,9 @@
 body {
   background: url("asset/background.png");
   color: #786721;
-  font-family: Geneva, Arial, Helvetica, sans-serif;
+  font-family: "Calibri", Arial, Helvetica, sans-serif;
   font-size: 14px;
-  text-shadow: 0px -1px 0px #e9ddaf;
-  line-height: 1.2em;
+  /*text-shadow: 0px -1px 0px #e9ddaf;*/
   margin: 0px;
   padding: 0px;
 }
@@ -21,13 +20,12 @@ table {
 
 table th, table td {
   padding: 4px 8px;
-  border-bottom: 1px dotted #e9ddaf;
+  /*border-bottom: 1px dotted #e9ddaf;*/
 }
 
 table th {
   text-align: center;  
-  font-size: 120%;
-  color: black;
+  font-weight: normal;
 }
 
 table th span.button {
@@ -173,12 +171,15 @@ div.bar {
   text-align: right;
 }
 
-div.box {
+div.box, div.raised-box {
   margin: 16px 16px;
   background: white;
   border: 1px solid #decd87;
   border-radius: 16px;
   box-shadow: inset 0px 2px 4px #e0e0e0;
+}
+
+div.raised-box {
 }
 
 div.box-header {
@@ -213,3 +214,5 @@ div.box-footer {
   font-size: 24pt;
   margin-bottom: 20px;
 }
+
+
