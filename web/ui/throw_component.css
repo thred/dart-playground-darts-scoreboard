@@ -1,0 +1,38 @@
+table.throw {
+  background-color: #89a02c;
+  color: white;
+  
+  border: 1px solid white;
+  border-radius: 16px;
+  box-shadow: 0px 2px 4px #a0a0a0;
+  
+  margin: 16px 16px;
+  
+  width: 240px;
+  height: 140px;
+}
+
+table.throw thead th {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+table.throw thead td {
+  text-align: left;
+}
+
+table.throw thead td.right {
+  text-align: right;
+}
+
+table.throw tbody td {
+  font-size: 24px;
+  font-weight: bold;
+  
+  border-top: 1px solid white;
+  border-right: 1px solid white;
+}
+
+table.throw td.right {
+  border-right: none;
+}

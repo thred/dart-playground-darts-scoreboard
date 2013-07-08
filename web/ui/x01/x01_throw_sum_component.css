@@ -1,0 +1,31 @@
+table.throw-sum {
+  background-color: #a0892c;
+  color: white;
+  
+  border: 1px solid white;
+  border-radius: 16px;
+  box-shadow: 0px 2px 4px #a0a0a0;
+  
+  margin: 16px 16px;
+  
+  width: 240px;
+  height: 140px;
+}
+
+table.throw-sum th.throw, table.throw-sum td.throw,
+table.throw-sum th.score, table.throw-sum td.score { 
+  border-right: 1px solid white;
+}
+
+table.throw-sum td.throw {
+  border-bottom: 1px solid white;
+}
+
+table.throw-sum td {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+table.throw-sum td.rest {
+  font-size: 64px;
+}

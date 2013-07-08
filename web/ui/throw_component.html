@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link rel="stylesheet" href="throw_component.css">
+    
+    <!--<link rel="import" href="x01_score_component.html">-->
+  </head>
+  <body>
+    <element name="throw-component" constructor="ThrowComponent" extends="div">
+      <template>
+        <table class="throw">
+          <thead>
+            <tr>
+              <td colspan="3" class="left">1<sup>st</sup> Round</td>
+              <td colspan="3" class="right">Dart <sup>#</sup>3</td>
+            </tr>
+            <tr>
+              <th colspan="6" class="player">ham</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td colspan="2" class="left" style="width: 33%">3x19</td>
+              <td colspan="2" style="width: 33%" >17</td>
+              <td colspan="2" class="right" style="width: 33%">3</td>
+            </tr>
+          </tbody>
+        </table>
+      </template>
+      <script type="application/dart" src="throw_component.dart"></script>
+    </element>   
+  </body>
+</html>
