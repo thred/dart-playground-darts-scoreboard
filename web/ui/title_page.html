@@ -3,16 +3,30 @@
 <html>
   <head>
     <link rel="import" href="highscore_component.html" />
-    <link rel="import" href="button.html" />
   </head>
   <body>
     <element name="title-page" constructor="TitlePage" extends="div">
       <template>
-        <div is="highscore-component" id="highscore-component" state="{{state}}"></div>
+        <div is="highscore-component" id="highscore-component"></div>
         
-        <div class="bar">
-          <button on-click="startGame()" additional-class="major-button">Start Game</button>
-        </div>
+        <table class="boxed" style="width: 800px">
+          <tbody>
+            <tr>
+              <td class="focusable green disabled" style="width: 25%;">
+                Import...
+              </td>
+              <td class="focusable green disabled" style="width: 25%;">
+                Export...
+              </td>
+              <td class="focusable green" style="width: 25%;">
+                <span class="icon-play">Start Match</span>
+              </td>
+              <td class="focusable green" style="width: 25%;" on-click="startGame()">
+                <span class="icon-play">Start Game</span>
+              </td>
+            </tr>
+          </tbody>
+        </table>
       </template>
       <script type="application/dart" src="title_page.dart"></script>
     </element>   

@@ -2,58 +2,37 @@
 
 <html>
   <head>
-    <link rel="import" href="x01/x01_rules_definition_component.html">
-    <link rel="import" href="cricket/cricket_rules_definition_component.html">
     <link rel="import" href="button.html">
   </head>
   <body>
     <element name="game-selection-page" constructor="GameSelectionPage" extends="div">
       <template>
-        <div class="box">
-          <div class="box-header">
-            <h1>Game Selection</h1>
-          </div>
-          <div class="box-content">
-            <ul>
-              <!-- PAIN cannot use loop - https://github.com/dart-lang/web-ui/issues/311 -->
-              <li>
-                <span class="button" style="width: 10em;">
-                  <input type="radio" name="rules-selection" id="rules-selection-x01" value="x01" bind-value="state.rulesId" />
-                  <label for="rules-selection-x01">X01</label>
-                </span>
-              </li>
-              <li>
-                <span class="button" style="width: 10em;">
-                  <input type="radio" name="rules-selection" id="rules-selection-cricket" value="cricket" bind-value="state.rulesId" />
-                  <label for="rules-selection-cricket">Cricket</label>
-                </span>
-              </li>
-            </ul>  
-          </div>
-        </div>
+        <table class="boxed" style="width: 320px;">
+          <thead>
+            <tr>
+              <th class="title">
+                <h1>Game Selection</h1>
+              </th>
+            </tr>
+          </thead>
+          <tbody iterate="rulesId in RULES_IDS">
+            <tr>
+              <td class="focusable green" on-click="select(rulesId)">
+                <span class="icon-board">{{RULES[rulesId].name}}</span>
+              </td>
+            </tr>
+          </tbody>
+        </table>
         
-        <div class="box">
-          <div class="box-header">
-            <h2>Rules for {{state.rules.name}}</h2>
-          </div>
-          <div class="box-content">
-            <template instantiate="if state.rulesId == RULES_X01_ID">
-              <div is="x01-rules-definition-component" id="x01-rules-definition-component"></div>
-            </template>
-            
-            <template instantiate="if state.rulesId == RULES_CRICKET_ID">
-              <div is="cricket-rules-definition-component" id="cricket-rules-definition-component"></div>     
-            </template>
-          </div>
-          <div class="box-footer">
-            <button on-click="reset()">Reset to Defaults</button>
-          </div>
-        </div>
-              
-        <div class="bar">
-          <button on-click="nextPage()" additional-class="major-button">Continue</button>
-          <button on-click="cancel()" additional-class="major-button">Cancel</button>
-        </div>
+        <table class="boxed" style="width: 320px;">
+          <tbody>
+            <tr>
+              <td class="focusable red" on-click="cancel()">
+                <span class="icon-back">Back</span>
+              </td>
+            </tr>
+          </tbody>
+        </table>
       </template>
       <script type="application/dart" src="game_selection_page.dart"></script>
     </element>   

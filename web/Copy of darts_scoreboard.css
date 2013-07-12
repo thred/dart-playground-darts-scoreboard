@@ -1,0 +1,218 @@
+body {
+  background-color: black;
+  color: #786721;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 14px;
+  /*text-shadow: 0px -1px 0px #e9ddaf;*/
+  margin: 0px;
+  padding: 0px;
+}
+
+h1, h2, h3 {
+  margin: 0px;
+  padding: 0px;
+  color: black;
+}
+
+table {
+  border-spacing: 0px;
+}
+
+table th, table td {
+  padding: 4px 8px;
+  /*border-bottom: 1px dotted #e9ddaf;*/
+}
+
+table th {
+  text-align: center;  
+  font-weight: normal;
+}
+
+table th span.button {
+  font-size: 100%;
+}
+  
+table td {
+  text-align: center;
+}
+
+table td span {
+  padding-left: 20px;
+}
+
+table td.maximum span {
+  background: url('asset/maximum.png') no-repeat left center;
+  font-weight: bold;
+  color: black;
+}
+
+table th.dart {
+  background: url('asset/dart.png') no-repeat left center;
+  padding-left: 56px;
+}
+
+table.form th, table.form td {
+  border: none;
+}
+
+table.form th {
+  text-align: right;
+  border-bottom: 1px dotted #e9ddaf;
+}
+
+table.form td {
+  text-align: left;
+}
+
+table.layout {
+  width: 100%;
+}
+
+table.layout th, table.layout td {
+  border: none;
+  padding: 0px;
+  margin: 0px;
+  vertical-align: top;
+}
+
+div.header {
+  background-color: #504416;
+  color: #e9ddaf;
+  padding: 16px 32px 16px 32px;
+  text-shadow: 0px -1px 0px #000000;
+  font-size: 120%;
+}
+
+div.header h1 {
+  color: #e9ddaf;
+}
+
+span.button {
+  font-weight: bold;
+  font-size: 120%;
+  display: inline-block;
+  border: 1px solid #c8ab37;
+  border-radius: 16px;
+  box-shadow: 0px 2px 4px #e0e0e0;
+  cursor: pointer;
+  padding: 8px 32px;
+  margin: 2px 4px;
+  color: black;
+}
+
+span.button:hover {
+  background-color: #eef4d7;
+}
+
+span.button:active {
+  box-shadow: inset 0px 2px 4px #e0e0e0;
+}
+
+span.major-button {
+  background-color: #89a02c;
+  color: white;
+  font-size: 160%;
+  border: 1px solid white;
+  box-shadow: 0px 4px 8px #a0a0a0;
+  padding: 16px 32px;
+}
+
+span.major-button:hover {
+  background-color: #abc837;
+}
+
+span.major-button:active {
+  box-shadow: inset 0px 4px 8px #a0a0a0;
+}
+
+span.button-disabled, span.button-disabled:hover, span.button-disabled:active {
+  border: 1px solid #f4eed7;
+  color: #e9ddaf;
+  background-color: white;
+  box-shadow: none;
+  text-shadow: none;
+  cursor: default;
+}
+
+input[type=text], input[type=number] {
+  font-weight: bold;
+  font-size: 120%;
+  border: 1px solid #c8ab37;
+  border-radius: 16px;
+  box-shadow: inset 0px 2px 4px #e0e0e0;
+  padding: 6px 12px;
+  margin: 2px 4px;
+}
+
+input[type=number] {
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+input[type=text]:focus, input[type=number]:focus {
+  outline: 0;
+  background-color: #eef4d7;
+}
+
+
+div#board-logo {
+  background: url('asset/board.png') no-repeat center center;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  top: 0px;
+  right: 24px;
+}
+  
+div.bar {
+  clear: both;
+  margin: 16px 16px;
+  padding: 4px 0px;
+  text-align: right;
+}
+
+div.box, div.raised-box {
+  margin: 16px 16px;
+  background: white;
+  border: 1px solid #decd87;
+  border-radius: 16px;
+  box-shadow: inset 0px 2px 4px #e0e0e0;
+}
+
+div.raised-box {
+}
+
+div.box-header {
+  padding: 16px 32px;
+  border-bottom: 1px dotted #e9ddaf;
+}
+
+div.box-content {
+  padding: 16px 32px;
+}
+
+div.box-footer {
+  padding: 16px 32px;
+  border-top: 1px dotted #e9ddaf;
+}
+
+#sample_container_id {
+  width: 100%;
+  height: 400px;
+  position: relative;
+  border: 1px solid #ccc;
+  background-color: #fff;
+}
+
+#click_counter {
+  font-size: 24pt;
+  text-align: center;
+  margin-top: 140px;
+}
+
+#click_counter button {
+  font-size: 24pt;
+  margin-bottom: 20px;
+}
+
+

@@ -1,21 +1,24 @@
 import "package:web_ui/web_ui.dart";
 
+import "../model/global.dart";
 import "../model/person.dart";
-import "../model/state.dart";
+import "../model/session.dart";
+import "../model/store.dart";
 
 class PersonDetailPage extends WebComponent {
-  
-  @observable
-  State state;
   
   PersonDetailPage() {
   }
   
   @observable
-  Person get person => state.detailPerson;
+  Person get person => STORE.persons[SESSION.personDetailName];
   
+  void inserted() {
+    SESSION.save();
+  }
+
   void back() {
-    state.page = TITLE_PAGE;
+    SESSION.page = TITLE_PAGE;
   }
   
   void reset() {

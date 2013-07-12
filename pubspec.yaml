@@ -1,5 +1,5 @@
 name: DartsScoreboard
-description: A sample WebUI application
+description: A scoreboard for darts (no, the game)
 dependencies:
   browser: any
   js: any

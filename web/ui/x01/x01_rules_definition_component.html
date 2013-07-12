@@ -4,7 +4,15 @@
   <body>
     <element name="x01-rules-definition-component" constructor="X01RulesDefinitionComponent" extends="div">
       <template>
-        <table class="form">
+        <table class="boxed">
+          <thead>
+            <tr>
+              <th>
+                <h1>Rules for {{state.rules.name}}</h1>
+              </th>
+            </tr>
+          </thead>
+
           <tbody>
             <tr>
               <th>
@@ -65,6 +73,13 @@
               </td>
             </tr>
           </tbody>
+          
+          <tfoot>
+            <tr>
+              <td></td>
+              <td><button on-click="reset()">Reset to Defaults</button></td>
+            </tr>
+          </tfoot>  
         </table>
       </template>
       <script type="application/dart" src="x01_rules_definition_component.dart"></script>

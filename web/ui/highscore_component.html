@@ -7,33 +7,32 @@
   <body>
     <element name="highscore-component" constructor="HighscoreComponent" extends="div">
       <template>
-        <div class="box">
-          <div class="box-header">
-            <h2>Highscore</h2>
-          </div>
-          <div class="box-content">
-            <table>
-              <thead>
-                <tr>
-                  <th><button on-click="sortByPerson()" style="width: 8em;">Person</button></th>
-                  <th><button on-click="sortByScore()">Score</button></th>
-                  <th><button on-click="sortByPercentWins()"># Wins</button></th>
-                  <th><button on-click="sortByAverageShot()">&oslash; Shot</button></th>
-                  <th><button on-click="sortByMaxPerRound()">max.</button></th>
-                </tr>
-              </thead>
-              <tbody iterate="person in state.persons">
-                <tr>
-                  <th><button on-click="personDetail(person)" style="width: 8em;">{{person.name}}</button></th>
-                  <td class="{{getScoreClass(person)}}"><span>{{person.score.toStringAsFixed(1)}}</span></td>
-                  <td class="{{getPercentWinsClass(person)}}"><span>{{person.numberOfWins}} of {{person.numberOfGames}} ({{person.percentWins.toStringAsFixed(1)}} %)</span></td>
-                  <td class="{{getAverageShotClass(person)}}"><span>{{person.averageShot.toStringAsFixed(1)}}</span></td>
-                  <td class="{{getMaxPerRoundClass(person)}}"><span>{{person.maxPerRound}}</span></td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-        </div>
+        <table class="boxed highscore" style="width: 800px;">
+          <thead>
+            <tr>
+              <th class="title" colspan="5">
+                <h1>Highscore</h1>
+              </th>
+            </tr>
+            <tr>
+              <th class="focusable sortable red" on-click="sortByPerson()">Person</th>
+              <th class="focusable sortable red" on-click="sortByScore()">Score</th>
+              <th class="focusable sortable red" on-click="sortByPercentWins()"># Wins</th>
+              <th class="focusable sortable red" on-click="sortByAverageShot()">&oslash; Shot</th>
+              <th class="focusable sortable red" on-click="sortByMaxPerRound()">max.</th>
+            </tr>
+          </thead>
+          <tbody>
+          <tbody iterate="person in persons">
+            <tr>
+              <th class="focusable green" on-click="detail(person.name)"><span class="icon-play">{{person.name}}</span></th>
+              <td class="{{getScoreClass(person)}} white"><span class="{{getScoreClass(person)}}">{{person.score.toStringAsFixed(1)}}</span></td>
+              <td class="{{getPercentWinsClass(person)}} white"><span class="{{getPercentWinsClass(person)}}">{{person.numberOfWins}} of {{person.numberOfGames}} ({{person.percentWins.toStringAsFixed(1)}} %)</span></td>
+              <td class="{{getAverageShotClass(person)}} white"><span class="{{getAverageShotClass(person)}}">{{person.averageShot.toStringAsFixed(1)}}</span></td>
+              <td class="{{getMaxPerRoundClass(person)}} white"><span class="{{getMaxPerRoundClass(person)}}">{{person.maxPerRound}}</span></td>
+            </tr>
+          </tbody>
+        </table>
       </template>
       <script type="application/dart" src="highscore_component.dart"></script>
     </element>   

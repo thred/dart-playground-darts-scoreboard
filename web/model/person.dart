@@ -1,6 +1,10 @@
+import "dart:core";
+
 import "package:web_ui/web_ui.dart";
 
 import "scorable.dart";
+import "../util/utils.dart";
+
 
 class Person implements Scorable {
   
@@ -29,7 +33,31 @@ class Person implements Scorable {
     this.name = name;
   }
   
-  void comuptePercentWins() {
+  Person.fromMap(Map map)  {
+    name = map["name"];
+    score = map["score"];
+    numberOfWins = map["numberOfWins"];
+    numberOfGames = map["numberOfGames"];
+    averageShot = map["averageShot"];
+    maxPerRound = map["maxPerRound"];
+    
+    compute();
+  }
+  
+  Map toMap() {
+    Map map = new Map();
+    
+    map["name"] = name;
+    map["score"] = score;
+    map["numberOfWins"] = numberOfWins;
+    map["numberOfGames"] = numberOfGames;
+    map["averageShot"] = averageShot;
+    map["maxPerRound"] = maxPerRound;
+    
+    return map;
+  }
+  
+  void compute() {
     percentWins = (numberOfGames > 0) ? (numberOfWins / numberOfGames) * 100 : 0;  
   }
   
@@ -41,5 +69,6 @@ class Person implements Scorable {
     averageShot = 0;
     maxPerRound = 0;
   }
+  
 }
 

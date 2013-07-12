@@ -3,65 +3,82 @@ import "dart:math";
 
 import "package:web_ui/web_ui.dart";
 
+import "../model/global.dart";
 import "../model/person.dart";
-import "../model/state.dart";
+import "../model/session.dart";
+import "../model/store.dart";
 
 class HighscoreComponent extends WebComponent {
   
   @observable
-  State state;
+  List<Person> persons = toObservable(new List());
+  
+  @observable
+  Person maximumPerson;
   
   HighscoreComponent() {
   }
   
   void inserted() {
-    refresh();
-  }
-  
-  void refresh() {
-    state.computeStats();
+    persons.clear();
+
+    STORE.compute();
+    STORE.persons.forEach((key, person) => persons.add(person));
+    
+    compute();
     sortByScore();
   }
   
-  void personDetail(Person person) {
-    state.detailPerson = person;
-    state.page = PERSON_DETAIL_PAGE;
+  void compute() {
+    maximumPerson = new Person("Max Headroom");
+    
+    for (Person current in persons) {
+      maximumPerson.score = max(current.score, maximumPerson.score);
+      maximumPerson.percentWins = max(current.percentWins, maximumPerson.percentWins);
+      maximumPerson.averageShot = max(current.averageShot, maximumPerson.averageShot);
+      maximumPerson.maxPerRound = max(current.maxPerRound, maximumPerson.maxPerRound);
+    }
+  }
+  
+  void detail(String personName) {
+    SESSION.personDetailName = personName;
+    SESSION.page = PERSON_DETAIL_PAGE;
   }
   
   String getScoreClass(Person person) {
-    return (person.score >= state.maximumPerson.score) ? "maximum" : "";
+    return (person.score >= maximumPerson.score) ? "highlight" : "";
   }
   
   String getPercentWinsClass(Person person) {
-    return (person.percentWins >= state.maximumPerson.percentWins) ? "maximum" : "";
+    return (person.percentWins >= maximumPerson.percentWins) ? "highlight" : "";
   }
 
   String getAverageShotClass(Person person) {
-    return (person.averageShot >= state.maximumPerson.averageShot) ? "maximum" : "";
+    return (person.averageShot >= maximumPerson.averageShot) ? "highlight" : "";
   }
 
   String getMaxPerRoundClass(Person person) {
-    return (person.maxPerRound >= state.maximumPerson.maxPerRound) ? "maximum" : "";
+    return (person.maxPerRound >= maximumPerson.maxPerRound) ? "highlight" : "";
   }
 
   void sortByPerson() {
-    state.persons.sort((a, b) => a.name.compareTo(b.name));
+    persons.sort((a, b) => a.name.compareTo(b.name));
   }
   
   void sortByScore() {
-    state.persons.sort((a, b) => b.score.compareTo(a.score));
+    persons.sort((a, b) => b.score.compareTo(a.score));
   }
 
   void sortByPercentWins() {
-    state.persons.sort((a, b) => b.percentWins.compareTo(a.percentWins));
+    persons.sort((a, b) => b.percentWins.compareTo(a.percentWins));
   }
 
   void sortByAverageShot() {
-    state.persons.sort((a, b) => b.averageShot.compareTo(a.averageShot));
+    persons.sort((a, b) => b.averageShot.compareTo(a.averageShot));
   }
 
   void sortByMaxPerRound() {
-    state.persons.sort((a, b) => b.maxPerRound.compareTo(a.maxPerRound));
+    persons.sort((a, b) => b.maxPerRound.compareTo(a.maxPerRound));
   }
 
 }

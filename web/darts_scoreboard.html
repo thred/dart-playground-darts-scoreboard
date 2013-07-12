@@ -5,6 +5,8 @@
     <meta charset="utf-8">
     <title>Darts Scoreboard</title>
     <link rel="stylesheet" href="darts_scoreboard.css">
+    <link rel="stylesheet" href="ui/button_component.css">
+    <link rel="stylesheet" href="ui/highscore_component.css">
     <link rel="stylesheet" href="ui/throw_component.css">
     <link rel="stylesheet" href="ui/x01/x01_throw_sum_component.css">
     <link rel="stylesheet" href="ui/x01/x01_score_component.css">
@@ -15,11 +17,15 @@
     <link rel="import" href="ui/x01/x01_game_page.html">
   </head>
   <body>
-    <div id="board-logo"></div>
-    <div class="header">
-      <h1>Darts Scoreboard</h1>
-    </div>
+    <template instantiate="if SESSION.page == TITLE_PAGE">
+      <div is="title-page"></div>
+    </template>
+
+    <template instantiate="if SESSION.page == PERSON_DETAIL_PAGE">
+      <div is="person-detail-page"></div>
+    </template>
     
+    <!--
     <template instantiate="if STATE.page == TITLE_PAGE">
       <div is="title-page" id="title-page" state="{{STATE}}"></div>
     </template>
@@ -39,7 +45,7 @@
     <template instantiate="if STATE.page == X01_GAME_PAGE">
       <div is="x01-game-page" id="x01-game-page" state="{{STATE}}"></div>
     </template>
-
+    -->
     <script type="application/dart" src="darts_scoreboard.dart"></script>
     <script src="packages/browser/dart.js"></script>
   </body>

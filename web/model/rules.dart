@@ -8,6 +8,8 @@ final RULES = {
   "cricket": new CricketRules() // PAIN cannot use constant here
 };
 
+final RULES_IDS = [RULES_X01_ID, RULES_CRICKET_ID];
+
 abstract class Rules {
   
   @observable
