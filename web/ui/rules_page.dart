@@ -4,22 +4,20 @@ import "../model/global.dart";
 import "../model/rules.dart";
 import "../model/session.dart";
 
-class GameSelectionPage extends WebComponent {
+import "../model/x01/x01_rules.dart";
+
+class RulesPage extends WebComponent {
   
-  GameSelectionPage() {
+  RulesPage() {
   }
+  
+  Rules get rules => RULES[SESSION.rulesId];
   
   void inserted() {
     SESSION.save();
   }
-
-  void select(String rulesId) {
-    SESSION.rulesId = rulesId;  
-    SESSION.page = RULES_PAGE;
-  }
   
   void cancel() {
-    SESSION.page = TITLE_PAGE;
+    SESSION.page = GAME_SELECTION_PAGE;
   }
-  
 }

@@ -21,6 +21,9 @@ class Session {
   @observable
   String personDetailName = null;
   
+  @observable
+  String rulesId = null;
+  
   Session() {
   }
   
@@ -29,6 +32,7 @@ class Session {
     
     map["page"] = page;
     map["personDetailName"] = personDetailName;
+    map["rulesId"] = rulesId;
     
     return map;
   }
@@ -41,6 +45,7 @@ class Session {
       
       page = map["page"];
       personDetailName = map["personDetailName"];
+      rulesId = map["rulesId"];
     }
   }
   

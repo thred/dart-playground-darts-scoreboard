@@ -4,15 +4,18 @@
   <head>
     <meta charset="utf-8">
     <title>Darts Scoreboard</title>
+    
     <link rel="stylesheet" href="darts_scoreboard.css">
     <link rel="stylesheet" href="ui/button_component.css">
     <link rel="stylesheet" href="ui/highscore_component.css">
     <link rel="stylesheet" href="ui/throw_component.css">
     <link rel="stylesheet" href="ui/x01/x01_throw_sum_component.css">
     <link rel="stylesheet" href="ui/x01/x01_score_component.css">
+    
     <link rel="import" href="ui/title_page.html">
     <link rel="import" href="ui/person_detail_page.html">
     <link rel="import" href="ui/game_selection_page.html">
+    <link rel="import" href="ui/rules_page.html">
     <link rel="import" href="ui/players_page.html">
     <link rel="import" href="ui/x01/x01_game_page.html">
   </head>
@@ -25,6 +28,14 @@
       <div is="person-detail-page"></div>
     </template>
     
+    <template instantiate="if SESSION.page == GAME_SELECTION_PAGE">
+      <div is="game-selection-page"></div>
+    </template>
+
+    <template instantiate="if SESSION.page == RULES_PAGE">
+      <div is="rules-page"></div>
+    </template>
+
     <!--
     <template instantiate="if STATE.page == TITLE_PAGE">
       <div is="title-page" id="title-page" state="{{STATE}}"></div>

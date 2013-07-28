@@ -2,31 +2,33 @@
 
 <html>
   <body>
-    <element name="x01-rules-definition-component" constructor="X01RulesDefinitionComponent" extends="div">
+    <element name="x01-rules-component" constructor="X01RulesComponent" extends="div">
       <template>
-        <table class="boxed">
+        <table class="boxed" style="width: 640px;">
           <thead>
             <tr>
-              <th>
-                <h1>Rules for {{state.rules.name}}</h1>
+              <th class="title" colspan="3">
+                <h1>Rules for {{rules.name}}</h1>
               </th>
             </tr>
           </thead>
-
           <tbody>
             <tr>
               <th>
                 <label for="target-input">Starting Points</label>
               </th>
-              <td colspan="2">
+              <td>
                 <input type="number" id="target-input" min="1" max="2001" step="100" bind-value="rules.targetString" />
               </td>
-              <td>
-                Default is a 301 or 501 game
+              <td class="focusable green">
+                <span class="icon-add">More</span>
+              </td>
+              <td class="focusable green">
+                <span class="icon-subtract">Less</span>
               </td>
             </tr>
             <tr>
-              <th rowspan="3">
+              <th rowspan="2">
                 Start and Finish
               </th>
               <td>
@@ -36,9 +38,6 @@
               <td>
                 <input type="checkbox" id="double-out-input" bind-checked="rules.doubleOut" />
                 <label for="double-out-input">Double Out</label>
-              </td>
-              <td rowspan="3">
-                Default is double-in-out 
               </td>
             </tr>
             <tr>
@@ -52,12 +51,6 @@
               </td>
             </tr>
             <tr>
-              <td>
-                <input type="checkbox" id="ping-pong-input" bind-checked="rules.pingPong" />
-                <label for="ping-pong-input">Ping Pong</label>
-              </td>
-            </tr>
-            <tr>
               <th>
                 <label for="max-rounds-input">Maximum Rounds</label>
               </th>
@@ -68,21 +61,11 @@
                 <input type="checkbox" id="all-players-finish-input" bind-checked="rules.allPlayersFinish" />
                 <label for="all-players-finish-input">All players have to finish</label>
               </td>
-              <td>
-                Default is 21 rounds, game ends when first player wins 
-              </td>
             </tr>
           </tbody>
-          
-          <tfoot>
-            <tr>
-              <td></td>
-              <td><button on-click="reset()">Reset to Defaults</button></td>
-            </tr>
-          </tfoot>  
         </table>
       </template>
-      <script type="application/dart" src="x01_rules_definition_component.dart"></script>
+      <script type="application/dart" src="x01_rules_component.dart"></script>
     </element>   
   </body>
 </html>

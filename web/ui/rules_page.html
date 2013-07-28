@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link rel="import" href="x01/x01_rules_component.html">
+  </head>
+  <body>
+    <element name="rules-page" constructor="RulesPage" extends="div">
+      <template>
+        <template instantiate="if SESSION.rulesId == RULES_X01_ID">
+          <div is="x01-rules-component"></div>  
+        </template>
+        
+        <table class="boxed" style="width: 640px;">
+          <tbody>
+            <tr>
+              <td class="focusable red" on-click="cancel()" style="width: 33%;">
+                <span class="icon-back">Back</span>
+              </td>
+              <td class="focusable red" on-click="reset()" style="width: 33%;">
+                <span class="icon-back">Reset to Defaults</span>
+              </td>
+              <td class="focusable green" on-click="next()" style="width: 33%;">
+                <span class="icon-play">Continue</span>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </template>
+      <script type="application/dart" src="rules_page.dart"></script>
+    </element>   
+  </body>
+</html>

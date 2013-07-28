@@ -1,12 +1,17 @@
 body {
   background-color: black;
   color: white;
-  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   margin: 0px;
   padding: 0px;
 }
 
 h1, h2, h3 {
+  font-family: "Arial Black", Gadget, sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  color: gold;
   margin: 0px;
   padding: 0px;
 }
@@ -79,8 +84,8 @@ table.boxed tfoot:last-child tr:last-child th:last-child, table.boxed tfoot:last
 }
 
 .title {
-  background-color: white;
-  color: black;
+  background-color: goldenrod;
+  text-shadow: 0px 1px 4px black;
 }
 
 .white {
@@ -137,32 +142,43 @@ span.highlight {
   font-weight: bold;
 }
 
-.icon-play {
+.icon-play, .icon-back, .icon-board, .icon-add, .icon-subtract, .icon-unchecked, .icon-checked {
   padding-left: 20px;
-  background-image: url('asset/icon-play.png');
   background-repeat: no-repeat;
   background-position: left center;
   background-size: 16px 16px;
+}
+
+span.icon-play, span.icon-back, span.icon-board, span.icon-add, span.icon-subtract, span.icon-unchecked, span.icon-checked {
+  display: inline-block;
+}
+
+.icon-play {
+  background-image: url('asset/icon-play.png');
 }
 
 .icon-back {
-  padding-left: 20px;
   background-image: url('asset/icon-back.png');
-  background-repeat: no-repeat;
-  background-position: left center;
-  background-size: 16px 16px;
 }
 
 .icon-board {
-  padding-left: 20px;
   background-image: url('asset/icon-board.png');
-  background-repeat: no-repeat;
-  background-position: left center;
-  background-size: 16px 16px;
 }
 
-span.icon-play, span.icon-back, span.icon-board {
-  display: inline-block;
+.icon-add {
+  background-image: url('asset/icon-add.png');
+}
+
+.icon-subtract {
+  background-image: url('asset/icon-subtract.png');
+}
+
+.icon-unchecked {
+  background-image: url('asset/icon-unchecked.png');
+}
+
+.icon-checked {
+  background-image: url('asset/icon-checked.png');
 }
 
 

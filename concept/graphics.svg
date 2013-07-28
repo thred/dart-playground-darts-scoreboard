@@ -47,7 +47,7 @@
        id="linearGradient4014"
        osb:paint="solid">
       <stop
-         style="stop-color:#c83737;stop-opacity:0;"
+         style="stop-color:#37c83d;stop-opacity:0;"
          offset="0"
          id="stop4016" />
     </linearGradient>
@@ -696,6 +696,60 @@
        y1="116.36218"
        x2="368"
        y2="116.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4014"
+       id="linearGradient3313"
+       gradientUnits="userSpaceOnUse"
+       x1="352"
+       y1="116.36218"
+       x2="368"
+       y2="116.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4014"
+       id="linearGradient4111"
+       gradientUnits="userSpaceOnUse"
+       x1="352"
+       y1="116.36218"
+       x2="368"
+       y2="116.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4014"
+       id="linearGradient4113"
+       gradientUnits="userSpaceOnUse"
+       x1="352"
+       y1="116.36218"
+       x2="368"
+       y2="116.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4014"
+       id="linearGradient4129"
+       gradientUnits="userSpaceOnUse"
+       x1="352"
+       y1="116.36218"
+       x2="368"
+       y2="116.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4014"
+       id="linearGradient4141"
+       gradientUnits="userSpaceOnUse"
+       x1="352"
+       y1="116.36218"
+       x2="368"
+       y2="116.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4014"
+       id="linearGradient4162"
+       gradientUnits="userSpaceOnUse"
+       x1="352"
+       y1="116.36218"
+       x2="368"
+       y2="116.36218" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -704,9 +758,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="284.57546"
-     inkscape:cy="897.30527"
+     inkscape:zoom="2"
+     inkscape:cx="281.37318"
+     inkscape:cy="950.46811"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -717,11 +771,11 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:object-paths="true"
+     inkscape:object-paths="false"
      inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-nodes="false">
+     inkscape:object-nodes="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -1871,6 +1925,212 @@
          id="path4306"
          d="m 357.5,112.86218 0,7 6.5,-3.5 z"
          style="fill:#ffffff;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4088"
+       transform="translate(0,4)"
+       inkscape:export-filename="C:\Users\thred\dart\DartsScoreboard\web\asset\icon-add.png"
+       inkscape:export-xdpi="360"
+       inkscape:export-ydpi="360">
+      <g
+         inkscape:export-ydpi="360"
+         inkscape:export-xdpi="360"
+         inkscape:export-filename="C:\Users\thred\dart\DartsScoreboard\web\asset\icon-back.png"
+         id="g3303"
+         transform="matrix(-1,0,0,1,700,44)">
+        <rect
+           style="color:#000000;fill:url(#linearGradient4113);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect3305"
+           width="16"
+           height="16"
+           x="352"
+           y="108.36218" />
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="path3307"
+           sodipodi:cx="360"
+           sodipodi:cy="116.36218"
+           sodipodi:rx="8"
+           sodipodi:ry="8"
+           d="m 368,116.36218 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z" />
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="path3309"
+           sodipodi:cx="360"
+           sodipodi:cy="116.36218"
+           sodipodi:rx="6.5"
+           sodipodi:ry="6.5"
+           d="m 366.5,116.36218 a 6.5,6.5 0 1 1 -13,0 6.5,6.5 0 1 1 13,0 z" />
+      </g>
+      <rect
+         ry="0.94329834"
+         rx="0.94329834"
+         y="159.41888"
+         x="336.0083"
+         height="1.9432983"
+         width="7.9916992"
+         id="rect4083"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4085"
+         width="7.9916992"
+         height="1.9432983"
+         x="156.39468"
+         y="-340.9758"
+         rx="0.94329834"
+         ry="0.94329834" />
+    </g>
+    <g
+       id="g4096"
+       transform="translate(20,4)"
+       inkscape:export-filename="C:\Users\thred\dart\DartsScoreboard\web\asset\icon-subtract.png"
+       inkscape:export-xdpi="360"
+       inkscape:export-ydpi="360">
+      <g
+         transform="matrix(-1,0,0,1,700,44)"
+         id="g4098"
+         inkscape:export-filename="C:\Users\thred\dart\DartsScoreboard\web\asset\icon-back.png"
+         inkscape:export-xdpi="360"
+         inkscape:export-ydpi="360">
+        <rect
+           y="108.36218"
+           x="352"
+           height="16"
+           width="16"
+           id="rect4100"
+           style="color:#000000;fill:url(#linearGradient4111);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           d="m 368,116.36218 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z"
+           sodipodi:ry="8"
+           sodipodi:rx="8"
+           sodipodi:cy="116.36218"
+           sodipodi:cx="360"
+           id="path4103"
+           style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           sodipodi:type="arc" />
+        <path
+           d="m 366.5,116.36218 a 6.5,6.5 0 1 1 -13,0 6.5,6.5 0 1 1 13,0 z"
+           sodipodi:ry="6.5"
+           sodipodi:rx="6.5"
+           sodipodi:cy="116.36218"
+           sodipodi:cx="360"
+           id="path4105"
+           style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           sodipodi:type="arc" />
+      </g>
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4107"
+         width="7.9916992"
+         height="1.9432983"
+         x="336.0083"
+         y="159.41888"
+         rx="0.94329834"
+         ry="0.94329834" />
+    </g>
+    <g
+       transform="translate(40,4)"
+       id="g4115"
+       inkscape:export-filename="C:\Users\thred\dart\DartsScoreboard\web\asset\icon-unchecked.png"
+       inkscape:export-xdpi="360"
+       inkscape:export-ydpi="360">
+      <g
+         transform="matrix(-1,0,0,1,700,44)"
+         id="g4117"
+         inkscape:export-filename="C:\Users\thred\dart\DartsScoreboard\web\asset\icon-back.png"
+         inkscape:export-xdpi="360"
+         inkscape:export-ydpi="360">
+        <rect
+           y="108.36218"
+           x="352"
+           height="16"
+           width="16"
+           id="rect4119"
+           style="color:#000000;fill:url(#linearGradient4129);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           d="m 368,116.36218 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z"
+           sodipodi:ry="8"
+           sodipodi:rx="8"
+           sodipodi:cy="116.36218"
+           sodipodi:cx="360"
+           id="path4121"
+           style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           sodipodi:type="arc" />
+        <path
+           d="m 366.5,116.36218 a 6.5,6.5 0 1 1 -13,0 6.5,6.5 0 1 1 13,0 z"
+           sodipodi:ry="6.5"
+           sodipodi:rx="6.5"
+           sodipodi:cy="116.36218"
+           sodipodi:cx="360"
+           id="path4123"
+           style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           sodipodi:type="arc" />
+      </g>
+    </g>
+    <g
+       id="g4175"
+       inkscape:export-filename="C:\Users\thred\dart\DartsScoreboard\web\asset\icon-checked.png"
+       inkscape:export-xdpi="360"
+       inkscape:export-ydpi="360">
+      <g
+         transform="matrix(-1,0,0,1,760,48)"
+         id="g4149"
+         inkscape:export-filename="C:\Users\thred\dart\DartsScoreboard\web\asset\icon-back.png"
+         inkscape:export-xdpi="360"
+         inkscape:export-ydpi="360">
+        <rect
+           y="108.36218"
+           x="352"
+           height="16"
+           width="16"
+           id="rect4151"
+           style="color:#000000;fill:url(#linearGradient4162);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           d="m 368,116.36218 c 0,4.41828 -3.58172,8 -8,8 -4.41828,0 -8,-3.58172 -8,-8 0,-4.41828 3.58172,-8 8,-8 4.41828,0 8,3.58172 8,8 z"
+           sodipodi:ry="8"
+           sodipodi:rx="8"
+           sodipodi:cy="116.36218"
+           sodipodi:cx="360"
+           id="path4153"
+           style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           sodipodi:type="arc" />
+        <path
+           d="m 366.5,116.36218 c 0,3.58985 -2.91015,6.5 -6.5,6.5 -3.58985,0 -6.5,-2.91015 -6.5,-6.5 0,-3.58985 2.91015,-6.5 6.5,-6.5 3.58985,0 6.5,2.91015 6.5,6.5 z"
+           sodipodi:ry="6.5"
+           sodipodi:rx="6.5"
+           sodipodi:cy="116.36218"
+           sodipodi:cx="360"
+           id="path4156"
+           style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           sodipodi:type="arc" />
+      </g>
+      <g
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,272.97688,-189.44731)"
+         id="g4164">
+        <rect
+           ry="0.94329834"
+           rx="0.94329834"
+           y="159.41888"
+           x="335"
+           height="1.9432983"
+           width="10"
+           id="rect4158"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <rect
+           transform="matrix(0,1,-1,0,0,0)"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4160"
+           width="10"
+           height="1.9432983"
+           x="155.36218"
+           y="-340.9758"
+           rx="0.94329834"
+           ry="0.94329834" />
+      </g>
     </g>
   </g>
 </svg>

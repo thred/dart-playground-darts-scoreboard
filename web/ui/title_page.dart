@@ -14,6 +14,6 @@ class TitlePage extends WebComponent {
   }
   
   void startGame() {
-    //state.page = GAME_SELECTION_PAGE;
+    SESSION.page = GAME_SELECTION_PAGE;
   }
 }
